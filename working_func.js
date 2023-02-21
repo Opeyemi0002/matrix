@@ -1,5 +1,5 @@
 
-function matrixMultiplication(A, B) {
+const matrixMultiplication = (A, B) => {
   const n = A.length;
   const C = new Array(n).fill(null).map(() => new Array(n).fill(0));
   if (n === 1) {
