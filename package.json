@@ -1,0 +1,20 @@
+{
+  "name": "matrix",
+  "version": "1.0.0",
+  "description": "You have two matrices A and B of sizes n x n and need to compute their product C = A x B. Can you come up with an algorithm that can parallelize this computation to take advantage of multiple processors or cores? What is the theoretical limit of speedup you can achieve with this approach?",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Opeyemi0002/matrix.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Opeyemi0002/matrix/issues"
+  },
+  "homepage": "https://github.com/Opeyemi0002/matrix#readme"
+}
